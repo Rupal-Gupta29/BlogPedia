@@ -16,12 +16,11 @@ const App = () => {
 
   const ProtectedRoute = ({ children }) => {
     if (!firebase.isLoggedIn) {
-      return <Navigate to="/" />;
+      return <Navigate to="/login" />;
     }
     return children;
   };
 
-  console.log('aaa', process.env.REACT_APP_APIKEY)
 
   return (
     <>
