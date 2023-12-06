@@ -1,0 +1,37 @@
+.formContainer{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.formWrapper{
+    padding: 20px 40px;
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+.controlsWrapper{
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.controlsWrapper input{
+    border: none;
+    border-bottom: 1px solid grey;
+    padding: 5px 0px;
+}
+
+.btn{
+    padding: 10px 0px;
+    background-color: #F6BC0D;
+    border: none;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+.errorText{
+    color: red;
+}

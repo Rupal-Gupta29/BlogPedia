@@ -1,0 +1,23 @@
+.trendingCard{
+    min-width: 300px !important;
+    height: 200px !important;
+    overflow: hidden;
+}
+
+.trendingCard h4{
+    text-shadow: 0 0 3px white, 0 0 5px #FFC107; 
+}
+
+.trendingCardOverlay{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+
+.readBtn{
+    width: fit-content;
+    border: none;
+    border-radius: 2px;
+    padding: 5px 15px;
+    background-color: #FFC107;
+}

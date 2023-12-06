@@ -1,0 +1,49 @@
+.createblogContainer{
+    width: 50%;
+    margin: auto;
+    padding: 20px;
+}
+
+.createblogContainer h4{
+    text-align: center;
+}
+
+.tagsContainer{
+    border: 1px solid;
+    padding: 5px;
+}
+
+.tagsContainer ul{
+    margin: 0;
+    padding: 0;
+}
+
+.tagsContainer input{
+    border: none;
+    outline: none;
+}
+
+.tagList{
+    display: flex;
+    gap: 5px;
+    flex-wrap: wrap;
+}
+
+.tagList li{
+    list-style-type: none;
+    background-color: #D8D8D8;
+    padding: 2px 5px;
+    border-radius: 3px;
+}
+
+@media screen and (max-width:992px) {
+    .createblogContainer{
+        width: 70%;
+    }
+}
+
+@media screen and (max-width:720px) {
+    .createblogContainer{
+        width: 90%;
+    }
+}
