@@ -9,7 +9,8 @@ Blogpedia is a web application created with React.js and Firebase. It features r
 ![4](https://github.com/Rupal-Gupta29/BlogPedia/assets/70842313/5d91613e-0395-4123-8ea6-c73f6cc24814)
 ![5](https://github.com/Rupal-Gupta29/BlogPedia/assets/70842313/c7587c00-fff6-405c-8f3a-149c72d2ade1)
 ![6](https://github.com/Rupal-Gupta29/BlogPedia/assets/70842313/60731a75-1366-4ff5-9c3b-1f8625476227)
-![7](https://github.com/Rupal-Gupta29/BlogPedia/assets/70842313/cad1e8b2-df7d-456c-987f-ccf79ce9ac2f)
+![7n](https://github.com/Rupal-Gupta29/BlogPedia/assets/70842313/e60388bb-b0c2-473f-9545-724a696a23cf)
+
 
 ### Getting Started with Create React App
 
