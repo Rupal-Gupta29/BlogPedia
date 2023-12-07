@@ -17,9 +17,6 @@ import {
   doc,
   deleteDoc,
   updateDoc,
-  query,
-  where,
-  getDocs,
 } from "firebase/firestore";
 import { useState, useEffect } from "react";
 
@@ -79,12 +76,6 @@ export const FirebaseProvider = (props) => {
 
   const deleteDocById = async (blogId) => {
     return await deleteDoc(doc(firestore, "blogs", blogId));
-  };
-
-  const getBlogsByTagName = async (tagName) => {
-    const colRef = collection(firestore, "blogs");
-    const q = query(colRef, where("tags", "array-contains", tagName));
-    return await getDocs(q);
   };
 
   const editDoc = async (blogId, updatedData) => {
@@ -151,7 +142,6 @@ export const FirebaseProvider = (props) => {
         getBlogById,
         deleteDocById,
         editDoc,
-        getBlogsByTagName,
       }}
     >
       {props.children}
