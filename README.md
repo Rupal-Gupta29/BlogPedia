@@ -3,13 +3,15 @@ Blogpedia is a web application created with React.js and Firebase. It features r
 
 ## App Interface 
 
+#### Registration Page
 ![1](https://github.com/Rupal-Gupta29/BlogPedia/assets/70842313/cf0a350d-13b7-41d6-8f6e-1281ebc1b288)
-![2](https://github.com/Rupal-Gupta29/BlogPedia/assets/70842313/d0f73f00-ffbd-4c2e-95af-9c9faad026e6)
-![3](https://github.com/Rupal-Gupta29/BlogPedia/assets/70842313/cafa8de0-0462-4862-8407-969ed329b7d3)
-![4](https://github.com/Rupal-Gupta29/BlogPedia/assets/70842313/5d91613e-0395-4123-8ea6-c73f6cc24814)
+#### Login Page
+![Screenshot 2024-01-02 153431](https://github.com/Rupal-Gupta29/BlogPedia/assets/70842313/41d094bb-cf33-4825-ba7b-dafee70ff1de)
+#### Homepage
+![localhost_3000_home](https://github.com/Rupal-Gupta29/BlogPedia/assets/70842313/21ff64e0-0538-416f-bb0f-6aa5748b18e2)
 ![5](https://github.com/Rupal-Gupta29/BlogPedia/assets/70842313/c7587c00-fff6-405c-8f3a-149c72d2ade1)
-![6](https://github.com/Rupal-Gupta29/BlogPedia/assets/70842313/60731a75-1366-4ff5-9c3b-1f8625476227)
-![7n](https://github.com/Rupal-Gupta29/BlogPedia/assets/70842313/e60388bb-b0c2-473f-9545-724a696a23cf)
+![localhost_3000_home (1)](https://github.com/Rupal-Gupta29/BlogPedia/assets/70842313/3404e054-95b2-49b1-864a-f480e5aa4fb8)
+
 
 
 ### Getting Started with Create React App
